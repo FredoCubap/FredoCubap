@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Fredo Cuba Pérez]
+# 👋 Hi, I'm Fredo Cuba
 
 **Unity Developer | Game Tools Specialist**
 
