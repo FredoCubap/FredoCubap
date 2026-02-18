@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm [Fredo Cuba Pérez]
 
-<!--
-**FredoCubap/FredoCubap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Unity Developer | Game Tools Specialist**
 
-Here are some ideas to get you started:
+🎮 Building developer tools for game creators
+🛠️ Modds Games Creator
+🛠️ Creator of **CG-Tools** - Unity editor extensions suite  
+🌍 Based in Cuba, looking for remote opportunities  
+💬 Languages: Spanish (native), English (fluent), French (intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Current Projects
+
+- **[CG-Tools](WIP)** - Unity editor tools suite
+  - Prefab Placer: Advanced prefab placement tool
+
+## 🚀 Tech Stack
+
+**Game Development:**
+- Unity 3D, C#, Blender
+- Visual Studio Code
+
+**Languages:**
+- Spanish (Native)
+- English (Professional working proficiency)
+- French (Intermediate)
+
+## 📫 How to reach me
+
+- GitHub: You're already here! (https://github.com/FredoCubap/FredoCubap)   
+- Email: [cubasgamesss@gmail.com]
+
+---
+
+💡 Open to remote opportunities and collaborations
