@@ -10,8 +10,8 @@
 
 ## 🔧 Current Projects
 
-- **[CG-Tools](https://raw.githubusercontent.com/FredoCubap/Cubas-Games-Tools)** - Unity editor tools suite
-  - [Prefab Placer](https://raw.githubusercontent.com/FredoCubap/Cubas-Games-Tools/Assets/CGTools/Modules/PrefabPlacer/README.md): Advanced prefab placement tool
+- **[CG-Tools](https://github.com/FredoCubap/Cubas-Games-Tools)** - Unity editor tools suite
+  - [Prefab Placer](https://github.com/FredoCubap/Cubas-Games-Tools/blob/main/Assets/CGTools/Modules/PrefabPlacer/README.md): Advanced prefab placement tool
 
 ## 🚀 Tech Stack
 
